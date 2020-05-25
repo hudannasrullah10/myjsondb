@@ -5,7 +5,7 @@ repository ini berisi database json,
 silakan test dengan POSTMAN ke link : https://github.com/hudannasrullah10/myjsondb.git
 
 untuk update git ini silakan ketik :
->> git add
+>> git add .
 
 ini artinya kita add semua file yang kita tambahkan
 
